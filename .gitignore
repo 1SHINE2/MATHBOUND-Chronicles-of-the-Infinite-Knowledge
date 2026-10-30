@@ -1,0 +1,24 @@
+# Godot 4 generated folders
+.godot/
+*/.godot/
+/android/
+*.translation
+
+# IDE / temporary directories
+.summer/
+*/.summer/
+.antigravity/
+*/.antigravity/
+*.tmp
+
+# Export / build output
+export/
+builds/
+*.exe
+*.pck
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak

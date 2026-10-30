@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://ewtlepbwjk7s"]
+
+[ext_resource type="Script" uid="uid://c16kbig5868a" path="res://scenes/main.gd" id="1_main"]
+
+[sub_resource type="CanvasItemMaterial" id="CanvasItemMaterial_pifld"]
+
+[node name="Main" type="Node2D" unique_id=950673498]
+material = SubResource("CanvasItemMaterial_pifld")
+script = ExtResource("1_main")
